@@ -1,0 +1,283 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    .header-area {
+        padding: 5px 15px;
+        padding-bottom: 5px;
+        padding-top: 15px;
+    }
+    .header-right {
+        margin-right: 60px;
+    }
+    .slider-content {
+        padding: 80px 0;
+    }
+    .header-right{
+        display: none;
+    }
+    .mean-container a.meanmenu-reveal {
+        margin-top: -34px;
+    }
+    .slider-content h2 {
+        font-size: 35px;
+    }
+    .about-left-content h2 {
+        font-size: 40px;
+    }
+    .about-btn {
+        padding: 20px 60px;
+    }
+    .section-title h2{
+        font-size: 40px;
+    }
+    .single-services-item {
+        padding: 30px 25px;
+    }
+    .skills-left-content {
+        padding-right: 0;
+    }
+    .portfolio-section-title{
+        text-align: center;
+    }
+    .portfolio-buttons button:hover:before{        
+        width: 0;
+    }
+    .portfolio-buttons button.active:before{        
+        width: 0;
+    }
+    .cta-box {        
+        padding: 60px 15px;
+    }
+    .single-work-item {
+        padding: 30px;
+        text-align: center;
+    }
+    .work-heading{
+        text-align: center;
+    }
+    .work-heading .work-icon {
+        -webkit-box-flex: 0;
+            -ms-flex: 0 0 100%;
+                flex: 0 0 100%;
+    }
+    .work-heading .work-title {
+        -webkit-box-flex: 0;
+            -ms-flex: 0 0 100%;
+                flex: 0 0 100%;
+    }
+    .education-right-items {
+        margin-left: 0;
+    }
+    .portfolio-text h2 a {
+        font-size: 28px;
+    }
+    .education-right-img2 {
+        position: static;
+        margin-top: 20px;
+    }
+    .er-icon-img i{
+        top: 50%;
+        left: 0;
+    }
+    .single-testimonial-item {
+        padding: 30px 20px;
+    }
+    .blog-left-text {
+        padding: 25px;
+    }
+    .blog-right-item {
+        padding: 25px;
+    }
+    .scrolltopsec {
+        right: 20px;
+        bottom: 20px;        
+    }
+}
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767px){
+    .header-area {
+        padding: 5px 15px;
+        padding-bottom: 5px;
+        padding-top: 15px;
+    }
+    .header-right {
+        margin-right: 60px;
+    }
+    .slider-content {
+        padding: 100px 0;
+    }
+    .header-right{
+        display: none;
+    }
+    .mean-container a.meanmenu-reveal {
+        margin-top: -34px;
+    }
+    .slider-content h2 {
+        font-size: 35px;
+    }
+    .about-left-content h2 {
+        font-size: 40px;
+    }
+    .section-title h2{
+        font-size: 40px;
+    }
+    .single-services-item {
+        padding: 30px;
+    }
+    .skills-left-content {
+        padding-right: 0;
+    }
+    .portfolio-section-title{
+        text-align: center;
+    }
+    .cta-box {        
+        padding: 60px 15px;
+    }
+    .work-heading{
+        text-align: center;
+    }
+    .work-heading .work-icon {
+        -webkit-box-flex: 0;
+            -ms-flex: 0 0 100%;
+                flex: 0 0 100%;
+    }
+    .work-heading .work-title {
+        -webkit-box-flex: 0;
+            -ms-flex: 0 0 100%;
+                flex: 0 0 100%;
+    }
+    .education-right-img2 {
+        position: static;
+        margin-top: 20px;
+    }
+    .er-icon-img i{
+        top: 50%;
+        left: 0;
+    }
+}
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991px){
+    .header-area {
+        padding: 10px 30px;
+    }
+    .header-right {
+        margin-right: 60px;
+    }
+    .slider-content {
+        padding: 120px 0;
+    }
+    .about-left-content h2 {
+        font-size: 55px;
+    }
+    .about-btns .btn {
+        padding-left: 35px;
+        padding-right: 35px;
+    }
+    .single-services-item {
+        padding: 30px 25px;
+    }
+    .portfolio-section-title {
+        text-align: center;
+    }
+    .single-work-item {
+        padding: 30px;
+        text-align: center;
+    }
+    .work-heading .work-icon {
+        -webkit-box-flex: 0;
+            -ms-flex: 0 0 100%;
+                flex: 0 0 100%;
+    }
+    .work-heading .work-title {
+        -webkit-box-flex: 0;
+            -ms-flex: 0 0 100%;
+                flex: 0 0 100%;
+    }
+    .education-right-img2 {
+        position: static;
+        margin-top: 20px;
+    }
+    .footer-right-widget span {
+        margin-bottom: 10px;
+    }
+}
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199px){
+    .header-area {
+        padding: 10px 30px;
+    }
+    .header-right {
+        margin-right: 60px;
+    }
+    .slider-content {
+        padding: 150px 0;
+    }
+    .about-left-content h2 {
+        font-size: 55px;
+    }
+    .about-btns .btn {
+        padding-left: 35px;
+        padding-right: 35px;
+    }
+    .single-services-item {
+        padding: 30px 25px;
+    }
+    .skills-left-content{
+        padding-right: 0;
+    }
+    .section-title h2{
+        font-size: 55px;
+    }
+    .single-skill-bar {
+        margin-bottom: 20px;
+    }
+    .skills-right-title {
+        margin-bottom: 55px;
+    }
+    .portfolio-text h2{
+        font-size: 26px;
+    }
+    .cta-left-content {
+        margin-bottom: 30px;
+    }
+    .cta-box {
+        padding: 80px 100px;
+    }
+    .single-testimonial-item {
+        padding: 30px 20px;
+    }
+    .blog-right-item {
+        padding: 30px;
+    }
+    .blog-right-header {
+        margin-bottom: 19px;
+    }
+    .blog-right-body h3 {
+        line-height: 1.2;
+    }
+    .blog-left-header a {
+        margin-right: 27px;
+    }
+    .footer-left-text {
+        margin-bottom: 15px;
+    }    
+}
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1500px){
+    .header-area {
+        padding: 10px 50px;
+    }
+    .slider-content {
+        padding: 150px 0;
+    }
+    .slider-img:before {
+        left: 0;
+        width: 700px;
+        height: 700px;
+    }
+    .slider-img {
+        width: 650px;
+    }
+    .slider-img img{
+        max-width: 100%;
+    }
+}
